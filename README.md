@@ -1,31 +1,32 @@
 [![DOI](https://zenodo.org/badge/265119113.svg)](https://zenodo.org/badge/latestdoi/265119113)
 
+# Agricultural Market Integration Preserves Future Global Water Resources
+Neal T. Graham<sup>1*</sup>, Gokul Iyer<sup>1</sup>, Thomas B. Wild<sup>1</sup>, Flannery Dolan<sup>2</sup>, Jonathan Lamontagne<sup>2</sup>, Katherine Calvin<sup>1</sup>
+
+<sup>1</sup>Joint Global Change Research Institute, Pacific Northwest National Laboratory, College Park, MD 20740
+
+<sup>2</sup>Department of Civil and Environmental Engineering, Tufts University, Medford, MA 02155
+
+<sup>*</sup>corresponding author: neal.graham@pnnl.gov
+
+## Abstract
+Traded agricultural goods redistribute water, virtually, around the world to satisfy unmet demands while limiting excess water extraction in importing regions. However, gaps remain in our understanding of how alternative international trade regimes may alter agricultural water demands, locally and virtually. Here, we explore global agricultural water savings and virtual water trade impacts of such trade regimes under reference and low-carbon scenarios using an integrated and water-constrained human-Earth system model. We find that varying agricultural market integration significantly alters regional water withdrawals, while also substantially impacting global nonrenewable groundwater withdrawals. These results highlight the susceptibility of water resources, across regions, to varying degrees of market integration. Understanding how trade integration may evolve in the future can assist in the integrated management of water resources to allow for enhanced food security and potential amelioration of water stress.
 
 
-# metarepo
-Template repository for a single point of access meta-repository to reproduce an experiment
+## Journal Reference
+To be updated
 
-## Purpose
-A meta-repository creates a single point of access for someone to find all of the components that were used to create a published work for the purpose of reproducibility.  This repository should contain references to all minted data and software as well as house any ancillary code used to transform the source data, create figures for your publication, conduct the experiment, and / or execute the contributing software.
+## Repository Overview
 
-## Using the template
-Simply click `Use this template` on the main repository page (shows up to the left of `Clone or download`) and fill in your `Repository name`, the `Description`, select whether you want the repository to be `Public` or `Private`, and leave `Include all branches` unchecked.
 
-## Naming your meta-repository
-The following naming conventions should be used when naming your repository:  
-- Single author:  `lastname_year_journal`
-- Multi author:  `lastname-etal_year_journal`
-- Multiple publications in the same journal:  `lastname-etal_year-letter_journal` (e.g., `human-etal_2020-b_nature`)
+## Reproduce the Experiment
 
-## Customize your `.gitignore` file
-A general `.gitignore` for use with Python or R development is included.  However, you may wish to customize this to the needs of your project.  The `.gitignore` file lets Git know what to push to the remote repository and what needs to be ignored and stay local.
 
-## Suggestions
-- Don't bog down your repository with a bunch of raw data.  Instead archive and mint a DOI for your data and provide the reference in this repository with instructions for use.
-- Create complete and tested documentation for how to use what is in this repository to reproduce your experiment.
+## Reproduce the Analysis
 
-## Creating a minted release for your meta-repository
-It is important to version and release your meta-repository as well due to changes that may occur during the publication review process.  If you do not know how to conduct a release on GitHub when linked with Zenodo, please contact chris.vernon@pnnl.gov to get set up.  
+
+## Data Reference
+  
 
 ## The meta-repository markdown template
 A sample meta-repository template is provided in this repository in the file `metarepo_template.md`.  
