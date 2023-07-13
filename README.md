@@ -17,7 +17,7 @@ Traded agricultural goods redistribute water, virtually, around the world to sat
 To be updated
 
 ## Repository Overview
-
+This repository is designed to provide the necessary inputs to reproduce the data and figures found in Graham et al. (2023). All results found in the [`queried_outputs/`](/queried_outputs/) directory are queried outputs from the 26 Global Change Analysis Model (GCAM) runs used for the study. A minted version of GCAM version 5.4 used for this experiment and complete output databases can be provided upon request to the corresponding author. Main text figures and select supplementary figures can be found in [`figures/`](/figures/) with a R script to reproduce such figures found [`scripts/`](/scripts/).
 
 ## Reproduce the Experiment
 
